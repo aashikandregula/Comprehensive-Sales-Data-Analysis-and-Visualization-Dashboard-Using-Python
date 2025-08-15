@@ -1,0 +1,101 @@
+Customer ID,Customer Name,Email,Phone,Address,Country,State,City,Customer Segment,Sales Amount,License Cost ,Product ID
+C100,Customer 0,customer0@example.com,10000000000,0 Main Street,USA,California,Los Angeles,SMB,5,"50,000",P01
+C101,Customer 1,customer1@example.com,10000000001,1 Main Street,UAE,Dubai,Dubai City,Enterprise,7,"30,000",P02
+C102,Customer 2,customer2@example.com,10000000002,2 Main Street,India,Delhi,New Delhi,SMB,9,"100,000",P03
+C103,Customer 3,customer3@example.com,10000000003,3 Main Street,USA,California,San Francisco,Enterprise,8,"35,000",P04
+C104,Customer 4,customer4@example.com,10000000004,4 Main Street,USA,California,San Diego,Enterprise,8,"75,000",P05
+C105,Customer 5,customer5@example.com,10000000005,5 Main Street,USA,Florida,Orlando,Enterprise,8,"45,000",P06
+C106,Customer 6,customer6@example.com,10000000006,6 Main Street,UAE,Sharjah,Sharjah City,SMB,8,"30,000",P07
+C107,Customer 7,customer7@example.com,10000000007,7 Main Street,India,Maharashtra,Mumbai,Mid-Market,6,"50,000",P08
+C108,Customer 8,customer8@example.com,10000000008,8 Main Street,India,Tamil Nadu,Coimbatore,SMB,10,"85,000",P09
+C109,Customer 9,customer9@example.com,10000000009,9 Main Street,USA,Florida,Orlando,SMB,6,"65,000",P10
+C110,Customer 10,customer10@example.com,10000000010,10 Main Street,USA,Florida,Orlando,SMB,6,"47,500",P01
+C111,Customer 11,customer11@example.com,10000000011,11 Main Street,Oman,Dhofar,Salalah,Mid-Market,8,"61,250",P01
+C112,Customer 12,customer12@example.com,10000000012,12 Main Street,USA,California,San Diego,SMB,6,"120,000",P02
+C113,Customer 13,customer13@example.com,10000000013,13 Main Street,UAE,Ajman,Ajman City,Enterprise,9,"63,470",P06
+C114,Customer 14,customer14@example.com,10000000014,14 Main Street,Oman,Dhofar,Salalah,Mid-Market,7,"59,000",P10
+C115,Customer 15,customer15@example.com,10000000015,15 Main Street,Oman,Al Dhahirah,Ibri,SMB,8,"63,500",P02
+C116,Customer 16,customer16@example.com,10000000016,16 Main Street,Oman,Al Dhahirah,Ibri,Enterprise,9,"50,000",P02
+C117,Customer 17,customer17@example.com,10000000017,17 Main Street,UAE,Dubai,Dubai City,Enterprise,8,"40,000",P01
+C118,Customer 18,customer18@example.com,10000000018,18 Main Street,Oman,Ash Sharqiyah North,Ibra,Enterprise,6,"92,000",P06
+C119,Customer 19,customer19@example.com,10000000019,19 Main Street,UAE,Dubai,Dubai City,Enterprise,5,"75,500",P01
+C120,Customer 20,customer20@example.com,10000000020,20 Main Street,USA,New York,Buffalo,Mid-Market,10,"30,000",P02
+C121,Customer 21,customer21@example.com,10000000021,21 Main Street,India,Maharashtra,Mumbai,Mid-Market,10,"35,000",P10
+C122,Customer 22,customer22@example.com,10000000022,22 Main Street,India,Karnataka,Mysuru,SMB,8,"39,500",P04
+C123,Customer 23,customer23@example.com,10000000023,23 Main Street,India,Tamil Nadu,Coimbatore,SMB,10,"50,000",P01
+C124,Customer 24,customer24@example.com,10000000024,24 Main Street,UAE,Ajman,Ajman City,Enterprise,10,"30,000",P06
+C125,Customer 25,customer25@example.com,10000000025,25 Main Street,USA,New York,Buffalo,Enterprise,5,"100,000",P02
+C126,Customer 26,customer26@example.com,10000000026,26 Main Street,India,Tamil Nadu,Chennai,Enterprise,5,"35,000",P01
+C127,Customer 27,customer27@example.com,10000000027,27 Main Street,UAE,Dubai,Dubai City,Enterprise,5,"75,000",P01
+C128,Customer 28,customer28@example.com,10000000028,28 Main Street,Oman,Al Dhahirah,Ibri,Enterprise,5,"45,000",P01
+C129,Customer 29,customer29@example.com,10000000029,29 Main Street,India,Maharashtra,Nagpur,Enterprise,5,"30,000",P01
+C130,Customer 30,customer30@example.com,10000000030,30 Main Street,Oman,Dhofar,Salalah,Mid-Market,5,"50,000",P01
+C131,Customer 31,customer31@example.com,10000000031,31 Main Street,Oman,Al Batinah South,Rustaq,SMB,5,"85,000",P10
+C132,Customer 32,customer32@example.com,10000000032,32 Main Street,Oman,Al Batinah South,Rustaq,Mid-Market,5,"65,000",P06
+C133,Customer 33,customer33@example.com,10000000033,33 Main Street,UAE,Ajman,Ajman City,Mid-Market,8,"47,500",P01
+C134,Customer 34,customer34@example.com,10000000034,34 Main Street,UAE,Ras Al Khaimah,Ras Al Khaimah City,Mid-Market,9,"61,250",P10
+C135,Customer 35,customer35@example.com,10000000035,35 Main Street,Oman,Muscat,Muscat City,Enterprise,8,"120,000",P06
+C136,Customer 36,customer36@example.com,10000000036,36 Main Street,India,Delhi,New Delhi,Enterprise,6,"63,470",P02
+C137,Customer 37,customer37@example.com,10000000037,37 Main Street,India,Tamil Nadu,Chennai,Mid-Market,5,"59,000",P04
+C138,Customer 38,customer38@example.com,10000000038,38 Main Street,India,Maharashtra,Mumbai,SMB,10,"63,500",P01
+C139,Customer 39,customer39@example.com,10000000039,39 Main Street,Oman,Al Batinah South,Rustaq,Mid-Market,10,"50,000",P01
+C140,Customer 40,customer40@example.com,10000000040,40 Main Street,USA,New York,New York City,Enterprise,8,"40,000",P10
+C141,Customer 41,customer41@example.com,10000000041,41 Main Street,Oman,Ash Sharqiyah North,Ibra,Enterprise,10,"92,000",P06
+C142,Customer 42,customer42@example.com,10000000042,42 Main Street,USA,Florida,Miami,SMB,10,"75,500",P10
+C143,Customer 43,customer43@example.com,10000000043,43 Main Street,Oman,Ash Sharqiyah North,Ibra,SMB,5,"30,000",P02
+C144,Customer 44,customer44@example.com,10000000044,44 Main Street,USA,California,San Diego,Enterprise,7,"35,000",P06
+C145,Customer 45,customer45@example.com,10000000045,45 Main Street,USA,Illinois,Springfield,SMB,8,"39,500",P04
+C146,Customer 46,customer46@example.com,10000000046,46 Main Street,India,Uttar Pradesh,Varanasi,Enterprise,6,"50,000",P02
+C147,Customer 47,customer47@example.com,10000000047,47 Main Street,Oman,Al Batinah South,Rustaq,Enterprise,5,"30,000",P10
+C148,Customer 48,customer48@example.com,10000000048,48 Main Street,UAE,Abu Dhabi,Al Ain,Mid-Market,7,"100,000",P01
+C149,Customer 49,customer49@example.com,10000000049,49 Main Street,India,Tamil Nadu,Coimbatore,Enterprise,6,"35,000",P10
+C150,Customer 50,customer50@example.com,10000000050,50 Main Street,UAE,Sharjah,Sharjah City,SMB,9,"75,000",P01
+C151,Customer 51,customer51@example.com,10000000051,51 Main Street,Oman,Al Dhahirah,Ibri,Mid-Market,7,"45,000",P10
+C152,Customer 52,customer52@example.com,10000000052,52 Main Street,USA,California,San Francisco,Enterprise,8,"30,000",P04
+C153,Customer 53,customer53@example.com,10000000053,53 Main Street,UAE,Sharjah,Sharjah City,Mid-Market,6,"50,000",P03
+C154,Customer 54,customer54@example.com,10000000054,54 Main Street,USA,New York,New York City,Enterprise,5,"85,000",P10
+C155,Customer 55,customer55@example.com,10000000055,55 Main Street,India,Delhi,New Delhi,Mid-Market,10,"65,000",P01
+C156,Customer 56,customer56@example.com,10000000056,56 Main Street,Oman,Muscat,Muscat City,Enterprise,10,"47,500",P10
+C157,Customer 57,customer57@example.com,10000000057,57 Main Street,India,Tamil Nadu,Coimbatore,Mid-Market,5,"61,250",P10
+C158,Customer 58,customer58@example.com,10000000058,58 Main Street,India,Tamil Nadu,Chennai,Mid-Market,10,"120,000",P04
+C159,Customer 59,customer59@example.com,10000000059,59 Main Street,UAE,Dubai,Dubai City,Enterprise,9,"63,470",P01
+C160,Customer 60,customer60@example.com,10000000060,60 Main Street,Oman,Dhofar,Salalah,SMB,10,"59,000",P04
+C161,Customer 61,customer61@example.com,10000000061,61 Main Street,Oman,Dhofar,Salalah,Mid-Market,7,"63,500",P05
+C162,Customer 62,customer62@example.com,10000000062,62 Main Street,Oman,Dhofar,Salalah,Enterprise,6,"50,000",P01
+C163,Customer 63,customer63@example.com,10000000063,63 Main Street,USA,New York,Buffalo,Enterprise,6,"40,000",P02
+C164,Customer 64,customer64@example.com,10000000064,64 Main Street,India,Uttar Pradesh,Varanasi,SMB,6,"92,000",P03
+C165,Customer 65,customer65@example.com,10000000065,65 Main Street,USA,California,Los Angeles,Enterprise,6,"75,500",P04
+C166,Customer 66,customer66@example.com,10000000066,66 Main Street,India,Tamil Nadu,Chennai,SMB,6,"30,000",P05
+C167,Customer 67,customer67@example.com,10000000067,67 Main Street,UAE,Abu Dhabi,Al Ain,Mid-Market,10,"35,000",P06
+C168,Customer 68,customer68@example.com,10000000068,68 Main Street,Oman,Ash Sharqiyah North,Ibra,SMB,9,"39,500",P07
+C169,Customer 69,customer69@example.com,10000000069,69 Main Street,India,Tamil Nadu,Coimbatore,SMB,5,"150,000",P08
+C170,Customer 70,customer70@example.com,10000000070,70 Main Street,India,Tamil Nadu,Chennai,Mid-Market,10,"96,500",P09
+C171,Customer 71,customer71@example.com,10000000071,71 Main Street,Oman,Al Dhahirah,Ibri,Enterprise,6,"85,000",P10
+C172,Customer 72,customer72@example.com,10000000072,72 Main Street,UAE,Ras Al Khaimah,Ras Al Khaimah City,SMB,6,"65,000",P01
+C173,Customer 73,customer73@example.com,10000000073,73 Main Street,Oman,Al Dhahirah,Ibri,Enterprise,8,"47,500",P01
+C174,Customer 74,customer74@example.com,10000000074,74 Main Street,UAE,Dubai,Dubai City,Mid-Market,8,"61,250",P02
+C175,Customer 75,customer75@example.com,10000000075,75 Main Street,India,Maharashtra,Nagpur,Enterprise,10,"120,000",P06
+C176,Customer 76,customer76@example.com,10000000076,76 Main Street,USA,Texas,Dallas,SMB,9,"63,470",P10
+C177,Customer 77,customer77@example.com,10000000077,77 Main Street,UAE,Abu Dhabi,Al Ain,SMB,5,"59,000",P02
+C178,Customer 78,customer78@example.com,10000000078,78 Main Street,India,Tamil Nadu,Chennai,Mid-Market,6,"63,500",P02
+C179,Customer 79,customer79@example.com,10000000079,79 Main Street,India,Uttar Pradesh,Varanasi,SMB,10,"50,000",P01
+C180,Customer 80,customer80@example.com,10000000080,80 Main Street,USA,California,San Diego,Enterprise,6,"40,000",P06
+C181,Customer 81,customer81@example.com,10000000081,81 Main Street,UAE,Abu Dhabi,Abu Dhabi City,Mid-Market,9,"92,000",P01
+C182,Customer 82,customer82@example.com,10000000082,82 Main Street,USA,Illinois,Chicago,Enterprise,5,"75,500",P02
+C183,Customer 83,customer83@example.com,10000000083,83 Main Street,USA,California,Los Angeles,Enterprise,10,"30,000",P10
+C184,Customer 84,customer84@example.com,10000000084,84 Main Street,UAE,Ras Al Khaimah,Ras Al Khaimah City,Mid-Market,7,"35,000",P04
+C185,Customer 85,customer85@example.com,10000000085,85 Main Street,India,Uttar Pradesh,Varanasi,Enterprise,10,"39,500",P01
+C186,Customer 86,customer86@example.com,10000000086,86 Main Street,USA,Florida,Orlando,SMB,9,"150,000",P06
+C187,Customer 87,customer87@example.com,10000000087,87 Main Street,Oman,Muscat,Muscat City,Enterprise,6,"96,500",P06
+C188,Customer 88,customer88@example.com,10000000088,88 Main Street,Oman,Ash Sharqiyah North,Ibra,SMB,8,"92,000",P02
+C189,Customer 89,customer89@example.com,10000000089,89 Main Street,USA,Illinois,Chicago,Enterprise,5,"75,500",P04
+C190,Customer 90,customer90@example.com,10000000090,90 Main Street,India,Delhi,Ghaziabad,Mid-Market,7,"30,000",P01
+C191,Customer 91,customer91@example.com,10000000091,91 Main Street,India,Delhi,New Delhi,Mid-Market,9,"35,000",P01
+C192,Customer 92,customer92@example.com,10000000092,92 Main Street,India,Karnataka,Bengaluru,Enterprise,10,"39,500",P10
+C193,Customer 93,customer93@example.com,10000000093,93 Main Street,UAE,Abu Dhabi,Al Ain,Mid-Market,7,"50,000",P06
+C194,Customer 94,customer94@example.com,10000000094,94 Main Street,India,Uttar Pradesh,Varanasi,Enterprise,9,"30,000",P10
+C195,Customer 95,customer95@example.com,10000000095,95 Main Street,UAE,Ras Al Khaimah,Ras Al Khaimah City,Enterprise,6,"100,000",P02
+C196,Customer 96,customer96@example.com,10000000096,96 Main Street,India,Maharashtra,Mumbai,Enterprise,10,"35,000",P06
+C197,Customer 97,customer97@example.com,10000000097,97 Main Street,Oman,Al Batinah South,Rustaq,SMB,10,"75,000",P04
+C198,Customer 98,customer98@example.com,10000000098,98 Main Street,UAE,Ras Al Khaimah,Ras Al Khaimah City,SMB,9,"45,000",P02
+C199,Customer 99,customer99@example.com,10000000099,99 Main Street,UAE,Dubai,Dubai City,Enterprise,10,"30,000",P10
